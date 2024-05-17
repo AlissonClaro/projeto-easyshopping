@@ -1,9 +1,10 @@
 <h1>Projeto EasyShopping</h1>
 <br>
 <br>
-
-<h2>Projeito feito em aula referente a <a href"https://aulas.devclub.com.br/">DevClub</a></h2>
+<h2>Projeito feito em aula referente a <a href="https://aulas.devclub.com.br">DevClub</a></h2>
 <br>
-<h1>Imagens do projeto</h1>
+<h2>Imagens do projeto</h2>
+<img src="assets/easy shop.png">
 <br>
-
+<h2>Imagens do projeto mobile</h2>
+<img src="assets/easy shop cel.png">
